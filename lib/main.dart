@@ -14,9 +14,3 @@ class MyApp extends StatelessWidget {
   }
 }
 
-//QuizScreen
-
-//TODO: Pass the data to the result screen
-
-//ResultScreen
-//TODO: Update the Result Screen to accept passed Data
