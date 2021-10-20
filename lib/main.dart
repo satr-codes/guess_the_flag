@@ -23,5 +23,3 @@ class MyApp extends StatelessWidget {
 //TODO: Add the button to move to the second screen
 //TODO: Pass the data to the result screen
 
-//ResultScreen
-//TODO: Update the Result Screen to accept passed Data
